@@ -1,0 +1,33 @@
+h1{
+    font-family:fantasy;
+    color: darkgrey;
+    text-decoration: underline;
+    font-size: 400%;
+}
+
+
+
+
+.spécial {
+    color: orange;
+    font-weight: bold;
+    text-decoration: underline overline #FF6969;
+}
+
+h2  {
+    border-style: double;background-color: yellow;border: 1px solid black;
+}
+link {
+  color: pink;
+}
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+     margin: 10 ;
+    background-color: antiquewhite
+}
+.index{
+    font-size: 125%;
+    
+}
